@@ -1,0 +1,3 @@
+user: admin
+pwd: babyface
+e-mail address: o.odegbaro@dreammesh.ng
